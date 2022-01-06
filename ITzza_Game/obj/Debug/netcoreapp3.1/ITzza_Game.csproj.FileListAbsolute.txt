@@ -1,0 +1,14 @@
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\obj\Debug\netcoreapp3.1\ITzza_Game.csproj.AssemblyReference.cache
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\obj\Debug\netcoreapp3.1\ITzza_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\obj\Debug\netcoreapp3.1\ITzza_Game.AssemblyInfoInputs.cache
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\obj\Debug\netcoreapp3.1\ITzza_Game.AssemblyInfo.cs
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\obj\Debug\netcoreapp3.1\ITzza_Game.csproj.CoreCompileInputs.cache
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\bin\Debug\netcoreapp3.1\ITzza_Game.exe
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\bin\Debug\netcoreapp3.1\ITzza_Game.deps.json
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\bin\Debug\netcoreapp3.1\ITzza_Game.runtimeconfig.json
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\bin\Debug\netcoreapp3.1\ITzza_Game.runtimeconfig.dev.json
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\bin\Debug\netcoreapp3.1\ITzza_Game.dll
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\bin\Debug\netcoreapp3.1\ITzza_Game.pdb
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\obj\Debug\netcoreapp3.1\ITzza_Game.dll
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\obj\Debug\netcoreapp3.1\ITzza_Game.pdb
+C:\Users\김홰\source\repos\ITzza_Game\ITzza_Game\obj\Debug\netcoreapp3.1\ITzza_Game.genruntimeconfig.cache
